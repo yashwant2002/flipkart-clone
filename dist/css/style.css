@@ -95,7 +95,8 @@ margin-left: 45px;
 .footer{
     background-color: #172337;
     width: 100%;
-    height: 350px;
+    height: auto;
+    margin-bottom: 0px;
 }    
 .logo{
     margin-left: 200px;
@@ -262,4 +263,29 @@ height: 20px;
 }
 .genral{
     color: #68676a;
+}
+.footer_font_color{
+    line-height: 2;
+    font-size: 13px;
+    font-weight: 500;
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+}
+.about{
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 9px;
+} 
+.block{
+    padding-left: 150px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
